@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: DEV-PROFILE
   server:
     port: 0
 
